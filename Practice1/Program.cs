@@ -86,6 +86,8 @@ namespace Practice1
             //работа с файловой системой
             //var - аналог auto
 
+
+            
             var streamWriter = new StreamWriter("file.txt");
             streamWriter.WriteLine("TEST");
             streamWriter.Close();
