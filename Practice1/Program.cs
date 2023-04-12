@@ -78,6 +78,12 @@ namespace Practice1
 
             Console.WriteLine("Task 4");
 
+
+
+
+            Console.WriteLine("Task 4");
+
+            //работа с файловой системой
             //var - аналог auto
 
             var streamWriter = new StreamWriter("file.txt");
